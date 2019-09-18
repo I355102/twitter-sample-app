@@ -1,11 +1,16 @@
 {
-  "name": "twitterfriends",
+  "name": "twitter-sample-app",
   "version": "1.0.0",
   "description": "twitter followers who doesn't follow me back",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "twitter",
+    "follower",
+    "follow"
+  ],
   "author": "Sahil",
   "license": "ISC",
   "dependencies": {
